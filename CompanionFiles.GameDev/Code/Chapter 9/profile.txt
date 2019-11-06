@@ -1,0 +1,999 @@
+<method 'tick' of 'Clock' objects>	6556	51327	51327
+<method 'blit' of 'pygame.Surface' objects>	293653	45420	45420
+<method 'render' of 'pygame.font.Font' objects>	42636	24517	24517
+font_constructor	42548	11546	11546
+move	6446	86349	1263
+<built-in method pygame.display.update>	6555	1049	1049
+<built-in method pygame.transform.rotate>	38676	784	784
+<built-in method pygame.event.get>	6556	402	402
+<built-in method pygame.imageext.load_extended>	15	339	339
+<built-in method pygame.draw.rect>	6446	311	311
+ccw	625744	287	287
+<built-in method pygame.base.init>	1	282	282
+display	19338	3002	238
+rotate	120340	362	222
+<genexpr>	515774	314	213
+SysFont	42548	12317	174
+drawWaypoints	6017	398	163
+text	42548	37566	141
+<module>	1	140809	138
+nextStep	18051	4022	135
+boatCollision	12034	463	133
+line_intersect	156436	413	125
+<method 'join' of 'str' objects>	44373	429	114
+terrain_to_screen	459854	111	111
+shoreCollide	18051	202	109
+update_box	18051	333	91
+box_intersect	19338	357	80
+<method 'get' of 'dict' objects>	135307	72	72
+<built-in method math.cos>	281305	62	62
+<built-in method math.radians>	562611	59	59
+_simplename	42914	485	57
+<built-in method math.sin>	281305	54	54
+<method 'lower' of 'str' objects>	476339	52	52
+<method 'get_at' of 'pygame.Surface' objects>	67713	50	50
+<method 'isalnum' of 'str' objects>	472911	48	48
+boatCollided	19338	395	37
+<built-in method nt.stat>	410	37	37
+<built-in method pygame.draw.line>	38676	36	36
+<built-in method _imp.create_dynamic>	31	40	35
+playerStep	6017	1222	31
+<built-in method pygame.draw.circle>	18051	28	28
+<method 'split' of 'str' objects>	43733	27	27
+<built-in method pygame.display.set_mode>	1	193	27
+<built-in method builtins.compile>	1	25	25
+test_point	70456	24	24
+adjustAngle	11934	24	20
+screen_to_terrain	70456	17	17
+distance	18051	19	16
+otherBoats	6017	2810	15
+normalize	12034	17	14
+<built-in method winreg.OpenKey>	201	12	12
+adjustSpeed	11934	10	10
+<built-in method math.atan2>	11935	10	10
+<built-in method math.sqrt>	30085	7	7
+_parse	412	20	6
+<method 'random' of '_random.Random' objects>	19341	6	6
+<built-in method time.time>	6448	6	6
+<built-in method builtins.__build_class__>	296	34	5
+_compile	758	21	4
+__next	12653	4	4
+<built-in method builtins.abs>	23940	4	4
+find_spec	203	41	3
+__new__	6564	3	3
+__and__	3098	9	3
+_optimize_charset	272	5	3
+get	11418	6	3
+_legacy_cmpkey	1548	10	3
+<built-in method nt.listdir>	32	3	3
+<method 'get_width' of 'pygame.Surface' objects>	19338	3	3
+__call__	6565	6	2
+playScreen	431	4	2
+countdown	429	3	2
+initsysfonts_win32	1	16	2
+_parse_version_parts	4924	5	2
+<built-in method math.degrees>	11935	2	2
+<built-in method winreg.EnumValue>	377	2	2
+<built-in method builtins.isinstance>	17371	3	2
+<method 'get_height' of 'pygame.Surface' objects>	19338	2	2
+_path_join	904	3	1
+_find_spec	104	63	1
+_path_hooks	10	2	1
+splitdrive	1242	2	1
+split	465	2	1
+splitext	1155	4	1
+_splitext	1155	2	1
+__getitem__	3119	1	1
+getwidth	1160	1	1
+_parse_sub	268	20	1
+copy	471	4	1
+drawText	88	8	1
+parse	1554	15	1
+_compare	4592	3	1
+__init__	1548	11	1
+__init__	1560	3	1
+<method 'search' of '_sre.SRE_Pattern' objects>	1560	1	1
+<method 'split' of '_sre.SRE_Pattern' objects>	1548	1	1
+<built-in method nt._isdir>	22	1	1
+<method 'readlines' of '_io._IOBase' objects>	1	1	1
+<method 'append' of 'list' objects>	12876	1	1
+<method 'rstrip' of 'str' objects>	3109	1	1
+<method 'format' of 'str' objects>	1840	1	1
+<built-in method builtins.getattr>	1908	1	1
+<built-in method builtins.sorted>	16	26	1
+<built-in method pygame.key.get_pressed>	334	1	1
+_relax_case	203	0	0
+__init__	105	0	0
+acquire	220	0	0
+release	220	0	0
+__init__	105	0	0
+__enter__	105	2	0
+__exit__	105	0	0
+cb	105	0	0
+_get_module_lock	220	1	0
+_lock_unlock_module	115	1	0
+_call_with_frames_removed	140	240	0
+_verbose_message	1009	0	0
+_requires_builtin_wrapper	4	0	0
+<genexpr>	356	0	0
+__init__	113	0	0
+parent	99	0	0
+spec_from_loader	13	0	0
+find_spec	104	0	0
+is_package	4	0	0
+find_spec	100	0	0
+<listcomp>	904	1	0
+__enter__	418	0	0
+__exit__	418	0	0
+_find_spec_legacy	14	0	0
+_find_and_load_unlocked	105	249	0
+_find_and_load	105	249	0
+_handle_fromlist	164	20	0
+_path_is_mode_type	119	13	0
+_path_stat	378	36	0
+_path_isfile	109	12	0
+_path_isdir	10	0	0
+spec_from_file_location	87	0	0
+_open_registry	100	13	0
+_search_registry	100	14	0
+find_spec	100	14	0
+__init__	56	0	0
+__init__	31	0	0
+_path_importer_cache	223	3	0
+_get_spec	100	46	0
+find_spec	100	46	0
+<genexpr>	80	0	0
+__init__	10	0	0
+_get_spec	87	1	0
+<setcomp>	10	0	0
+_fill_cache	10	2	0
+path_hook_for_FileFinder	10	1	0
+__init__	3	0	0
+__init__	2	0	0
+decode	31	0	0
+abstractmethod	11	0	0
+<setcomp>	9	0	0
+__new__	9	0	0
+register	1	0	0
+__instancecheck__	134	0	0
+__subclasscheck__	7	0	0
+__init__	6	0	0
+__enter__	6	0	0
+__exit__	6	0	0
+__init__	34	0	0
+_commit_removals	6	0	0
+__iter__	7	0	0
+__contains__	141	0	0
+add	8	0	0
+__getitem__	3	0	0
+__call__	1	0	0
+check_str	3	0	0
+encodekey	3	0	0
+normcase	9	0	0
+join	384	2	0
+dirname	377	2	0
+_get_bothseps	465	0	0
+normpath	9	0	0
+_check_methods	1	0	0
+abspath	9	0	0
+exists	7	0	0
+__subclasshook__	1	0	0
+__subclasshook__	6	0	0
+get	1	0	0
+__contains__	2	0	0
+clear	2	0	0
+get_platform	1	0	0
+extract_stack	25	3	0
+__init__	75	0	0
+line	75	1	0
+walk_stack	100	0	0
+extract	25	3	0
+getline	75	1	0
+__get__	110	0	0
+getlines	75	1	0
+<genexpr>	30	0	0
+<genexpr>	30	0	0
+namedtuple	6	3	0
+checkcache	25	1	0
+updatecache	1	1	0
+lazycache	75	0	0
+update_wrapper	9	0	0
+wraps	8	0	0
+read_or_stop	3	0	0
+find_cookie	3	0	0
+open	2	0	0
+detect_encoding	2	0	0
+register	2	0	0
+singledispatch	1	0	0
+__init__	1	0	0
+popitem	2	0	0
+compile	70	46	0
+sub	6	0	0
+_is_descriptor	2	0	0
+escape	5	0	0
+_compile	76	46	0
+_is_dunder	4	0	0
+_is_sunder	4	0	0
+__init__	1	0	0
+__setitem__	4	0	0
+fixup	1069	0	0
+__prepare__	1	0	0
+<dictcomp>	1	0	0
+<setcomp>	1	0	0
+__new__	1	0	0
+__getattr__	1	0	0
+__members__	1	0	0
+__setattr__	8	0	0
+_create_	1	0	0
+_get_mixins_	3	0	0
+_find_new_	1	0	0
+_generate_next_value_	2	0	0
+__hash__	2	0	0
+name	105	0	0
+value	5	0	0
+<listcomp>	38	0	0
+_mk_bitmap	38	0	0
+_missing_	5	0	0
+_create_pseudo_member_	5	0	0
+__or__	184	0	0
+_bytes_to_codes	10	0	0
+_high_bit	50	0	0
+<listcomp>	5	0	0
+<lambda>	14	0	0
+_decompose	5	0	0
+_power_of_two	60	0	0
+_compile_charset	272	6	0
+_simple	295	0	0
+_generate_overlap_table	14	0	0
+_get_literal_prefix	66	0	0
+_get_charset_prefix	40	0	0
+_compile_info	66	1	0
+isstring	132	0	0
+_code	66	23	0
+compile	66	45	0
+__init__	66	0	0
+groups	358	0	0
+opengroup	108	0	0
+closegroup	108	1	0
+checkgroup	1	0	0
+checklookbehindgroup	1	0	0
+__init__	758	0	0
+__len__	1090	0	0
+__setitem__	295	0	0
+append	1068	0	0
+__init__	66	0	0
+__newobj__	471	0	0
+_slotnames	17	0	0
+match	2396	0	0
+getwhile	35	0	0
+getuntil	58	0	0
+tell	955	0	0
+seek	1	0	0
+_class_escape	116	0	0
+_escape	146	0	0
+fix_flags	66	0	0
+parse	66	21	0
+pickle	2	0	0
+constructor	2	0	0
+_reconstruct	471	1	0
+filterwarnings	1	0	0
+_add_filter	1	0	0
+decode	3	0	0
+execfile	1	140836	0
+<module>	1	0	0
+contextmanager	1	0	0
+geterror	3	0	0
+<module>	1	0	0
+<module>	1	0	0
+get_BytesIO	1	0	0
+<module>	1	0	0
+__init__	3	0	0
+draw	88	9	0
+isArmed	89	0	0
+__init__	5	0	0
+setText	5	0	0
+button	1	0	0
+__init__	3	0	0
+__init__	30	0	0
+waypoint	1	0	0
+setWaypoint	3	0	0
+setName	3	0	0
+avoid	101	0	0
+startScreen	30	242	0
+npc	1	0	0
+start_engine	82	0	0
+stop_engine	82	0	0
+MissingModule	1	0	0
+<module>	1	77	0
+Sprite	1	0	0
+DirtySprite	1	0	0
+AbstractGroup	1	0	0
+Group	1	0	0
+RenderUpdates	1	0	0
+_declare_state	4	0	0
+get_supported_platform	1	0	0
+ResolutionError	1	0	0
+VersionConflict	1	0	0
+ContextualVersionConflict	1	0	0
+DistributionNotFound	1	0	0
+UnknownExtra	1	0	0
+register_loader_type	3	0	0
+get_provider	8	0	0
+get_build_platform	1	0	0
+IMetadataProvider	1	0	0
+IResourceProvider	1	0	0
+__init__	1	16	0
+_build_master	1	16	0
+add_entry	18	31	0
+__iter__	4	0	0
+add	6	0	0
+subscribe	1	0	0
+_added_new	3	0	0
+WorkingSet	1	0	0
+_ReqExtras	1	0	0
+Environment	1	0	0
+ExtractionError	1	0	0
+__init__	1	0	0
+resource_exists	4	0	0
+resource_stream	4	0	0
+ResourceManager	1	0	0
+safe_name	6	0	0
+safe_version	6	0	0
+__init__	8	0	0
+has_resource	4	0	0
+has_metadata	3	0	0
+_fn	11	0	0
+NullProvider	1	0	0
+__init__	8	0	0
+_setup_prefix	8	0	0
+EggProvider	1	0	0
+_has	7	0	0
+get_resource_stream	4	0	0
+_register	1	0	0
+DefaultProvider	1	0	0
+__init__	1	0	0
+EmptyProvider	1	0	0
+ZipManifests	1	0	0
+MemoizedZipManifests	1	0	0
+ContextualZipFile	1	0	0
+ZipProvider	1	0	0
+FileMetadata	1	0	0
+__init__	6	0	0
+PathMetadata	1	0	0
+EggMetadata	1	0	0
+register_finder	4	0	0
+find_distributions	18	0	0
+find_nothing	2	0	0
+<listcomp>	772	16	0
+_by_version	772	20	0
+_by_version_descending	16	26	0
+find_on_path	22	31	0
+register_namespace_handler	4	0	0
+fixup_namespace_packages	3	0	0
+normalize_path	9	0	0
+_normalize_cached	46	0	0
+_is_unpacked_egg	104	0	0
+EntryPoint	1	0	0
+__init__	6	0	0
+from_location	6	0	0
+_reload_version	6	0	0
+key	21	0	0
+_get_metadata	3	0	0
+activate	3	0	0
+__getattr__	9	0	0
+<listcomp>	3	0	0
+insert_on	3	0	0
+Distribution	1	0	0
+EggInfoDistribution	1	0	0
+DistInfoDistribution	1	0	0
+RequirementParseError	1	0	0
+Requirement	1	0	0
+_get_mro	26	0	0
+_find_adapter	26	0	0
+_call_aside	2	32	0
+_initialize	1	0	0
+_initialize_master_working_set	1	32	0
+<module>	1	154	0
+BadZipFile	1	0	0
+LargeZipFile	1	0	0
+ZipInfo	1	0	0
+_ZipDecrypter	1	0	0
+LZMACompressor	1	0	0
+LZMADecompressor	1	0	0
+_SharedFile	1	0	0
+_Tellable	1	0	0
+ZipExtFile	1	0	0
+_ZipWriteFile	1	0	0
+ZipFile	1	0	0
+PyZipFile	1	0	0
+<module>	1	0	0
+<module>	1	2	0
+ImpImporter	1	0	0
+getpreferredencoding	1	0	0
+ImpLoader	1	0	0
+get_importer	18	0	0
+<module>	1	1	0
+Dict	1	0	0
+<module>	1	0	0
+_InternalDict	1	0	0
+ModuleInfo	1	0	0
+Plist	1	0	0
+Data	1	0	0
+_PlistParser	1	0	0
+_DumbXMLWriter	1	0	0
+_PlistWriter	1	0	0
+InvalidFileException	1	0	0
+_BinaryPlistParser	1	0	0
+_BinaryPlistWriter	1	0	0
+<module>	1	14	0
+_days_before_year	3	0	0
+_days_in_month	5	0	0
+_check_int_field	35	0	0
+_check_date_fields	5	0	0
+_check_time_fields	5	0	0
+_check_tzinfo_arg	5	0	0
+__new__	9	0	0
+__neg__	1	0	0
+timedelta	1	0	0
+__new__	2	0	0
+date	1	0	0
+tzinfo	1	0	0
+__new__	2	0	0
+time	1	0	0
+__new__	3	0	0
+datetime	1	0	0
+_create	3	0	0
+timezone	1	0	0
+<module>	1	1	0
+<module>	1	0	0
+OrderedUpdates	1	0	0
+LayeredUpdates	1	0	0
+LayeredDirty	1	0	0
+GroupSingle	1	0	0
+collide_rect_ratio	1	0	0
+collide_circle_ratio	1	0	0
+<module>	1	3	0
+WorkerQueue	1	0	0
+FuncResult	1	0	0
+<module>	1	2	0
+Empty	1	0	0
+Full	1	0	0
+Queue	1	0	0
+PriorityQueue	1	0	0
+LifoQueue	1	0	0
+<module>	1	0	0
+_addfont	366	0	0
+create_aliases	1	0	0
+initsysfonts	1	16	0
+<module>	1	0	0
+<module>	1	1	0
+<module>	1	0	0
+<module>	1	1	0
+<module>	1	0	0
+getResource	4	1	0
+<module>	1	162	0
+<module>	1	0	0
+PEP440Warning	1	0	0
+_SetuptoolsVersionMixin	1	0	0
+SetuptoolsVersion	1	0	0
+SetuptoolsLegacyVersion	1	0	0
+<module>	1	0	0
+Parser	1	0	0
+HeaderParser	1	0	0
+BytesParser	1	0	0
+BytesHeaderParser	1	0	0
+<module>	1	19	0
+BufferedSubFile	1	0	0
+FeedParser	1	0	0
+BytesFeedParser	1	0	0
+<module>	1	18	0
+MessageError	1	0	0
+MessageParseError	1	0	0
+HeaderParseError	1	0	0
+BoundaryError	1	0	0
+MultipartConversionError	1	0	0
+CharsetError	1	0	0
+MessageDefect	1	0	0
+NoBoundaryInMultipartDefect	1	0	0
+StartBoundaryNotFoundDefect	1	0	0
+CloseBoundaryNotFoundDefect	1	0	0
+FirstHeaderLineIsContinuationDefect	1	0	0
+MisplacedEnvelopeHeaderDefect	1	0	0
+MissingHeaderBodySeparatorDefect	1	0	0
+MultipartInvariantViolationDefect	1	0	0
+InvalidMultipartContentTransferEncodingDefect	1	0	0
+UndecodableBytesDefect	1	0	0
+InvalidBase64PaddingDefect	1	0	0
+InvalidBase64CharactersDefect	1	0	0
+HeaderDefect	1	0	0
+InvalidHeaderDefect	1	0	0
+HeaderMissingRequiredValue	1	0	0
+NonPrintableDefect	1	0	0
+ObsoleteHeaderDefect	1	0	0
+NonASCIILocalPartDefect	1	0	0
+<module>	1	0	0
+__init__	1	0	0
+_PolicyBase	1	0	0
+_append_doc	6	0	0
+<genexpr>	10	0	0
+_extend_docstrings	1	0	0
+Policy	1	0	0
+Compat32	1	0	0
+<module>	1	15	0
+Header	1	0	0
+_ValueFormatter	1	0	0
+_Accumulator	1	0	0
+<module>	1	7	0
+<listcomp>	1	0	0
+<module>	1	3	0
+__init__	1	1	0
+_TemplateMetaclass	1	0	0
+Template	1	0	0
+Formatter	1	0	0
+<module>	1	2	0
+<module>	1	0	0
+__init__	2	0	0
+Charset	1	0	0
+<module>	1	1	0
+<module>	1	0	0
+<module>	1	0	0
+<module>	1	6	0
+<module>	1	0	0
+_ResultMixinStr	1	0	0
+_ResultMixinBytes	1	0	0
+_NetlocResultMixinBase	1	0	0
+_NetlocResultMixinStr	1	0	0
+_NetlocResultMixinBytes	1	0	0
+DefragResult	1	0	0
+SplitResult	1	0	0
+ParseResult	1	0	0
+DefragResultBytes	1	0	0
+SplitResultBytes	1	0	0
+ParseResultBytes	1	0	0
+_fix_result_transcoding	1	0	0
+Quoter	1	0	0
+<module>	1	1	0
+DefragResult	1	0	0
+SplitResult	1	0	0
+ParseResult	1	0	0
+AddrlistClass	1	0	0
+AddressList	1	0	0
+<module>	1	1	0
+IllegalMonthError	1	0	0
+IllegalWeekdayError	1	0	0
+<listcomp>	1	0	0
+__init__	2	0	0
+_localized_month	1	0	0
+<listcomp>	1	0	0
+__init__	2	0	0
+_localized_day	1	0	0
+__init__	1	0	0
+setfirstweekday	1	0	0
+Calendar	1	0	0
+TextCalendar	1	0	0
+HTMLCalendar	1	0	0
+different_locale	1	0	0
+LocaleTextCalendar	1	0	0
+LocaleHTMLCalendar	1	0	0
+<module>	1	0	0
+__init__	1	0	0
+search_path	12	0	0
+find_module	10	0	0
+load_module	6	31	0
+install	1	0	0
+VendorImporter	1	0	0
+<module>	1	0	0
+<module>	1	0	0
+_add_doc	8	0	0
+_import_module	4	0	0
+__init__	127	0	0
+__get__	4	0	0
+_LazyDescr	1	0	0
+__init__	44	0	0
+_resolve	2	0	0
+MovedModule	1	0	0
+__init__	6	0	0
+_LazyModule	1	0	0
+__init__	83	0	0
+MovedAttribute	1	0	0
+__init__	1	0	0
+_add_module	51	0	0
+_get_module	5	0	0
+_SixMetaPathImporter	1	0	0
+_MovedItems	1	0	0
+Module_six_moves_urllib_parse	1	0	0
+Module_six_moves_urllib_error	1	0	0
+Module_six_moves_urllib_request	1	0	0
+Module_six_moves_urllib_response	1	0	0
+Module_six_moves_urllib_robotparser	1	0	0
+Module_six_moves_urllib	1	0	0
+<module>	1	0	0
+_resolve	2	0	0
+find_module	4	0	0
+__get_module	6	0	0
+load_module	3	0	0
+is_package	3	0	0
+InvalidVersion	1	0	0
+CFunctionType	3	0	0
+CFUNCTYPE	3	0	0
+<module>	1	0	0
+AppDirs	1	0	0
+<module>	1	4	0
+_check_size	14	0	0
+py_object	1	0	0
+c_short	1	0	0
+c_ushort	1	0	0
+c_long	1	0	0
+c_ulong	1	0	0
+c_float	1	0	0
+c_double	1	0	0
+c_longdouble	1	0	0
+c_longlong	1	0	0
+c_ulonglong	1	0	0
+c_ubyte	1	0	0
+c_byte	1	0	0
+c_char	1	0	0
+c_char_p	1	0	0
+c_void_p	1	0	0
+c_bool	1	0	0
+c_wchar_p	1	0	0
+c_wchar	1	0	0
+_reset_cache	1	0	0
+_FuncPtr	2	0	0
+__init__	2	0	0
+__getattr__	1	0	0
+__getitem__	1	0	0
+CDLL	1	0	0
+PyDLL	1	0	0
+WinDLL	1	0	0
+HRESULT	1	0	0
+OleDLL	1	0	0
+__init__	4	0	0
+__getattr__	1	0	0
+LibraryLoader	1	0	0
+CFunctionType	3	0	0
+PYFUNCTYPE	3	0	0
+<module>	1	2	0
+_swapped_meta	1	0	0
+BigEndianStructure	1	0	0
+<module>	1	0	0
+<module>	1	0	0
+<lambda>	2286	0	0
+__lt__	2286	2	0
+<lambda>	2306	0	0
+__eq__	2306	2	0
+_BaseVersion	1	0	0
+LegacyVersion	1	0	0
+<genexpr>	48	0	0
+<genexpr>	24	0	0
+__str__	6	0	0
+Version	1	4	0
+_parse_letter_version	36	0	0
+_parse_local_version	12	0	0
+<lambda>	16	0	0
+_cmpkey	12	0	0
+<module>	1	6	0
+__neg__	24	0	0
+Infinity	1	0	0
+NegativeInfinity	1	0	0
+<module>	1	0	0
+InvalidSpecifier	1	0	0
+__new__	12	0	0
+_Version	1	0	0
+BaseSpecifier	1	0	0
+_IndividualSpecifier	1	0	0
+LegacySpecifier	1	1	0
+_require_version_compare	7	0	0
+Specifier	1	10	0
+SpecifierSet	1	0	0
+<module>	1	13	0
+__new__	1	0	0
+metaclass	1	0	0
+with_metaclass	1	0	0
+<module>	1	0	0
+InvalidRequirement	1	0	0
+Requirement	1	0	0
+<module>	1	38	0
+<genexpr>	1	0	0
+_Constants	1	0	0
+<genexpr>	95	0	0
+__init__	36	0	0
+ParseBaseException	1	0	0
+ParseException	1	0	0
+ParseFatalException	1	0	0
+ParseSyntaxException	1	0	0
+RecursiveGrammarException	1	0	0
+__init__	4	0	0
+__getitem__	16	0	0
+_ParseResultsWithOffset	1	0	0
+__new__	82	0	0
+__init__	82	0	0
+__getitem__	24	0	0
+__setitem__	4	0	0
+__bool__	18	0	0
+__iter__	2	0	0
+haskeys	6	0	0
+__getattr__	2	0	0
+<lambda>	2	0	0
+<listcomp>	2	0	0
+__iadd__	12	0	0
+ParseResults	1	0	0
+extract_stack	25	3	0
+wrapper	12	0	0
+_trim_arity	26	3	0
+__init__	337	0	0
+copy	471	4	0
+setName	45	0	0
+setResultsName	16	0	0
+setParseAction	24	3	0
+addParseAction	2	0	0
+addCondition	1	0	0
+preParse	64	0	0
+postParse	46	0	0
+_parseNoCache	106	0	0
+_UnboundedCache	1	0	0
+_FifoCache	1	0	0
+resetCache	2	0	0
+parseString	2	1	0
+__add__	83	1	0
+__radd__	4	0	0
+makeOptionalList	12	0	0
+__mul__	3	0	0
+__or__	49	0	0
+__xor__	1	0	0
+__invert__	4	0	0
+__call__	14	0	0
+suppress	12	0	0
+leaveWhitespace	78	0	0
+setWhitespaceChars	170	0	0
+__str__	105	0	0
+streamline	65	0	0
+ParserElement	1	0	0
+__init__	121	0	0
+Token	1	0	0
+__init__	3	0	0
+Empty	1	0	0
+NoMatch	1	0	0
+__init__	69	0	0
+parseImpl	12	0	0
+Literal	1	0	0
+Keyword	1	0	0
+CaselessLiteral	1	0	0
+CaselessKeyword	1	0	0
+CloseMatch	1	0	0
+<genexpr>	281	0	0
+__init__	13	2	0
+parseImpl	20	0	0
+charsAsStr	17	0	0
+__str__	30	0	0
+Word	1	0	0
+__init__	27	17	0
+parseImpl	24	0	0
+__str__	49	0	0
+Regex	1	0	0
+__init__	2	0	0
+__str__	2	0	0
+QuotedString	1	0	0
+CharsNotIn	1	0	0
+<genexpr>	3	0	0
+<genexpr>	3	0	0
+__init__	1	0	0
+White	1	0	0
+__init__	6	0	0
+_PositionToken	1	0	0
+GoToColumn	1	0	0
+__init__	1	0	0
+LineStart	1	0	0
+__init__	3	0	0
+LineEnd	1	0	0
+__init__	1	0	0
+StringStart	1	0	0
+__init__	1	0	0
+StringEnd	1	0	0
+WordStart	1	0	0
+WordEnd	1	0	0
+<genexpr>	268	0	0
+__init__	134	1	0
+<listcomp>	61	2	0
+leaveWhitespace	61	3	0
+streamline	20	0	0
+setResultsName	4	0	0
+<listcomp>	131	2	0
+copy	131	3	0
+ParseExpression	1	0	0
+_ErrorStop	1	0	0
+<genexpr>	195	0	0
+__init__	84	0	0
+parseImpl	10	0	0
+<genexpr>	41	0	0
+__str__	13	0	0
+And	1	0	0
+<genexpr>	2	0	0
+__init__	1	0	0
+Or	1	0	0
+<genexpr>	141	0	0
+__init__	49	0	0
+parseImpl	20	0	0
+<genexpr>	50	0	0
+__str__	15	0	0
+MatchFirst	1	0	0
+Each	1	0	0
+__init__	82	0	0
+parseImpl	16	0	0
+leaveWhitespace	36	4	0
+streamline	15	0	0
+__str__	9	0	0
+ParseElementEnhance	1	0	0
+FollowedBy	1	0	0
+__init__	4	0	0
+__str__	9	0	0
+NotAny	1	0	0
+__init__	11	0	0
+parseImpl	2	0	0
+_MultipleMatch	1	0	0
+__str__	1	0	0
+OneOrMore	1	0	0
+__init__	8	0	0
+ZeroOrMore	1	0	0
+_NullToken	1	0	0
+__init__	28	0	0
+parseImpl	2	0	0
+__str__	9	0	0
+Optional	1	0	0
+SkipTo	1	0	0
+__init__	1	0	0
+__lshift__	1	0	0
+copy	2	0	0
+Forward	1	0	0
+_ForwardNoRecurse	1	0	0
+__init__	38	0	0
+TokenConverter	1	0	0
+__init__	12	4	0
+Combine	1	0	0
+__init__	5	0	0
+postParse	6	0	0
+Group	1	0	0
+__init__	1	0	0
+Dict	1	0	0
+postParse	4	0	0
+Suppress	1	0	0
+OnlyOnce	1	0	0
+delimitedList	2	0	0
+_escapeRegexRangeChars	15	0	0
+originalTextFor	2	0	0
+<lambda>	12	0	0
+<genexpr>	97	0	0
+<lambda>	6	0	0
+<genexpr>	8	0	0
+srange	2	1	0
+tokenMap	7	0	0
+<genexpr>	94	0	0
+_makeTags	1	1	0
+makeHTMLTags	1	1	0
+pyparsing_common	1	8	0
+<module>	1	19	0
+_safe_key	1	0	0
+PrettyPrinter	1	0	0
+<module>	1	0	0
+InvalidMarker	1	0	0
+UndefinedEnvironmentName	1	0	0
+UndefinedComparison	1	0	0
+Variable	1	0	0
+Value	1	0	0
+Node	1	0	0
+Marker	1	0	0
+<module>	1	1	0
+manifest_mod	1	0	0
+<built-in method _codecs.utf_8_decode>	31	0	0
+<built-in method _codecs.charmap_decode>	3	0	0
+<built-in method _locale._getdefaultlocale>	1	0	0
+<method 'match' of '_sre.SRE_Pattern' objects>	36	0	0
+<method 'sub' of '_sre.SRE_Pattern' objects>	6	0	0
+<method 'group' of '_sre.SRE_Match' objects>	138	0	0
+<method 'end' of '_sre.SRE_Match' objects>	12	0	0
+<method 'groupdict' of '_sre.SRE_Match' objects>	12	0	0
+<built-in method _sre.compile>	66	0	0
+<built-in method _sre.getlower>	1455	0	0
+<built-in method _struct.calcsize>	23	0	0
+<method 'toordinal' of 'datetime.date' objects>	1	0	0
+<built-in method nt.access>	16	0	0
+<built-in method nt._getfullpathname>	9	0	0
+<built-in method nt.fspath>	3472	0	0
+<built-in method _thread.allocate_lock>	210	0	0
+<built-in method _thread.get_ident>	440	0	0
+<method 'readline' of '_io.BufferedReader' objects>	3	0	0
+<method 'seek' of '_io.BufferedReader' objects>	2	0	0
+<method 'read' of '_io.TextIOWrapper' objects>	1	0	0
+<method 'close' of '_io.TextIOWrapper' objects>	2	0	0
+<built-in method io.open>	7	0	0
+<method 'find' of 'bytearray' objects>	882	0	0
+<method 'translate' of 'bytearray' objects>	38	0	0
+<method 'decode' of 'bytes' objects>	3	0	0
+<method 'startswith' of 'bytes' objects>	2	0	0
+<method 'setter' of 'property' objects>	5	0	0
+<method 'get' of 'mappingproxy' objects>	25	0	0
+<method 'items' of 'mappingproxy' objects>	1	0	0
+<method 'setdefault' of 'dict' objects>	30	0	0
+<method 'pop' of 'dict' objects>	7	0	0
+<method 'popitem' of 'dict' objects>	2	0	0
+<method 'keys' of 'dict' objects>	1	0	0
+<method 'items' of 'dict' objects>	84	0	0
+<method 'update' of 'dict' objects>	503	0	0
+<built-in method fromkeys>	4	0	0
+<method 'clear' of 'dict' objects>	5	0	0
+<method 'insert' of 'list' objects>	1	0	0
+<method 'extend' of 'list' objects>	193	0	0
+<method 'remove' of 'list' objects>	281	0	0
+<method 'reverse' of 'list' objects>	25	0	0
+<method 'sort' of 'list' objects>	5	0	0
+<method 'bit_length' of 'int' objects>	50	0	0
+<method 'tolist' of 'memoryview' objects>	10	0	0
+<method 'cast' of 'memoryview' objects>	10	0	0
+<method 'items' of 'collections.OrderedDict' objects>	2	0	0
+<method '__contains__' of 'frozenset' objects>	30	0	0
+<method 'add' of 'set' objects>	267	0	0
+<method 'remove' of 'set' objects>	6	0	0
+<method 'mro' of 'type' objects>	6	0	0
+<method '__subclasses__' of 'type' objects>	6	0	0
+<method '__reduce_ex__' of 'object' objects>	471	0	0
+<built-in method __new__ of type object at 0x1DA19CA8>	564	0	0
+<method 'encode' of 'str' objects>	4	0	0
+<method 'replace' of 'str' objects>	1368	0	0
+<method 'rsplit' of 'str' objects>	118	0	0
+<method 'title' of 'str' objects>	2	0	0
+<method 'expandtabs' of 'str' objects>	2	0	0
+<method 'find' of 'str' objects>	2	0	0
+<method 'partition' of 'str' objects>	170	0	0
+<method 'lstrip' of 'str' objects>	21	0	0
+<method 'rfind' of 'str' objects>	3465	0	0
+<method 'rpartition' of 'str' objects>	582	0	0
+<method 'strip' of 'str' objects>	77	0	0
+<method 'upper' of 'str' objects>	3	0	0
+<method 'startswith' of 'str' objects>	3502	0	0
+<method 'endswith' of 'str' objects>	2149	0	0
+<method 'isidentifier' of 'str' objects>	88	0	0
+<method 'zfill' of 'str' objects>	114	0	0
+<built-in method winreg.QueryInfoKey>	1	0	0
+<built-in method _warnings._filters_mutated>	1	0	0
+<built-in method builtins.__import__>	29	88	0
+<built-in method builtins.all>	218	0	0
+<built-in method builtins.any>	147	0	0
+<built-in method builtins.callable>	4	0	0
+<built-in method builtins.chr>	270	0	0
+<built-in method builtins.delattr>	5	0	0
+<built-in method builtins.dir>	2	0	0
+<built-in method builtins.divmod>	45	0	0
+<built-in method builtins.globals>	9	0	0
+<built-in method builtins.hasattr>	1210	1	0
+<built-in method builtins.hash>	2	0	0
+<built-in method builtins.issubclass>	503	0	0
+<built-in method builtins.iter>	2	0	0
+<built-in method builtins.len>	8963	1	0
+<built-in method builtins.locals>	1	0	0
+<built-in method builtins.max>	1350	0	0
+<built-in method builtins.min>	1784	0	0
+<built-in method builtins.ord>	1585	0	0
+<built-in method builtins.repr>	33	0	0
+<built-in method builtins.round>	9	0	0
+<built-in method builtins.setattr>	384	0	0
+<built-in method _imp.acquire_lock>	421	0	0
+<built-in method _imp.release_lock>	641	0	0
+<built-in method _imp.create_builtin>	4	0	0
+<built-in method _imp.is_builtin>	24	0	0
+<built-in method _imp.is_frozen>	100	0	0
+<built-in method _imp.exec_dynamic>	31	0	0
+<built-in method _imp.exec_builtin>	4	0	0
+<built-in method sys.exc_info>	6	0	0
+<built-in method sys._getframe>	31	0	0
+<built-in method sys.getwindowsversion>	2	0	0
+<method 'play' of 'Sound' objects>	94	0	0
+<method 'stop' of 'Sound' objects>	82	0	0
+<method 'set_volume' of 'Sound' objects>	83	0	0
+<built-in method pygame.transform.scale>	1	0	0
+<built-in method pygame.time.Clock>	1	0	0
+<built-in method pygame.mouse.get_pos>	89	0	0
+<built-in method pygame.key.set_repeat>	1	0	0
+<method 'get_rect' of 'pygame.Surface' objects>	88	0	0
+<built-in method _ctypes.POINTER>	2	0	0
+<built-in method _ctypes.LoadLibrary>	1	0	0
+<built-in method _ctypes.sizeof>	34	0	0

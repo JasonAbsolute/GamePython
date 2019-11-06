@@ -1,0 +1,4 @@
+"Audacity(R) software is copyright (c) 1999-2018 Audacity Team.
+ Web site: https://web.audacityteam.org/. It is free software
+ distributed under the terms of the GNU General Public License.
+ The name Audacity(R) is a registered trademark of Dominic Mazzoni."

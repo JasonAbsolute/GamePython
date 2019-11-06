@@ -1,0 +1,7 @@
+VMACH-10162-21209-37784-11061
+
+To license VideoMach your users need to do the following:
+1. Install VideoMach and run it
+2. Click "Register" on the intro screen
+3. Enter the above license key and his/her name (any name)
+Alternatively, in VideoMach one can click Help -> Enter License Key.
